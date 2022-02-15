@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Created by Zumardi Rahman
+### Zumardi Rahman
 
 You can use the [editor on GitHub](https://github.com/zumardirahman/react.js-kasir-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
