@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/zumardirahman/react.js-kas
 
 ### Sample App
 
-[Image](https://github.com/zumardirahman/react.js-kasir-app/raw/gh-pages/kasir-app-react-js.png)
-
+![Kasis App Sample](https://github.com/zumardirahman/react.js-kasir-app/raw/gh-pages/kasir-app-react-js.png "Kasir App Sample")
 
 
 ### Support or Contact
