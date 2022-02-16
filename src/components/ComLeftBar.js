@@ -4,7 +4,7 @@ import { Col, ListGroup } from 'react-bootstrap'
 import { API_URL } from '../utils/constants'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUtensils, faCoffee, faCheese } from '@fortawesome/free-solid-svg-icons'
- ss
+
 const Icon = ({ nama }) => {
     if (nama == "Makanan") return <FontAwesomeIcon icon={faUtensils} className="mr-2" />
     if (nama == "Minuman") return <FontAwesomeIcon icon={faCoffee} className="mr-2" />
