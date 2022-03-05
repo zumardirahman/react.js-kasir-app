@@ -21,6 +21,7 @@ Before running app, you must run the `Fake-JSON` for kasir-app. See here for ins
 
 ### Running App
 Follow intructions below:
+In the project directory, you can run:
 
 ### `npm start`
 
