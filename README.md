@@ -4,10 +4,6 @@ Author : Zumardi Rahman
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Menjalankan aplikasi
 Berikut langkah uji coba aplikasi ini :
 
@@ -25,6 +21,10 @@ Before running app, you must run the `Fake-JSON` for kasir-app. See here for ins
 ### Running App
 Follow intructions below:
 
+
+## Available Scripts
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
