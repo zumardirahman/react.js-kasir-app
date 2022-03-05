@@ -8,6 +8,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Menjalankan aplikasi
+Berikut langkah uji coba aplikasi ini :
+
+### Cloning
+
+        git clone https://github.com/zumardirahman/react.js-kasir-app.git
+
+### Running Fake JSON
+Before running app, you must run the `Fake-JSON` for kasir-app. See here for instructions https://github.com/zumardirahman/json-fake.git
+
+### Install Package and Dependency
+
+        npm install
+
+### Running App
+Follow intructions below:
+
 ### `npm start`
 
 Runs the app in the development mode.\
