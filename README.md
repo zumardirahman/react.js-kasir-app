@@ -4,12 +4,9 @@ Author : Zumardi Rahman
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 ## Available Scripts
-
-In the project directory, you can run:
-
-## Menjalankan aplikasi
-Berikut langkah uji coba aplikasi ini :
+you can do this for testing :
 
 ### Cloning
 
