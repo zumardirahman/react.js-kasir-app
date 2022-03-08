@@ -5,6 +5,10 @@ Author : Zumardi Rahman
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+## Demo
+https://react-toko-zum.herokuapp.com/
+
+
 ## Available Scripts
 you can do this for testing :
 
