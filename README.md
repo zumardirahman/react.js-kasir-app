@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Demo
-https://react-toko-zum.herokuapp.com/
+Click here to Demo App : https://react-toko-zum.herokuapp.com/
 
 
 ## Available Scripts
